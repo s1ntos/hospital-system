@@ -5,7 +5,6 @@ Um sistema para gerenciamento de informações hospitalares, desenvolvido em **J
 ## 🚀 **Funcionalidades**  
 ✅ Cadastro, consulta, edição e exclusão de **pacientes** e **médicos**.  
 ✅ Gerenciamento de **atendimentos médicos** e dados relacionados.  
-✅ Relatórios básicos para monitoramento de registros hospitalares.  
 ✅ Interface simples e eficiente para facilitar o uso.  
 
 ## 💻 **Tecnologias Utilizadas**  
